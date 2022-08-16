@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/Type-C.pretty/Type-C.lib)(options "")(descr ""))
+  (lib (name Brook)(type Legacy)(uri ${KIPRJMOD}/Brook.pretty/Brook.lib)(options "")(descr ""))
+)

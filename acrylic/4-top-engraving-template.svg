@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="230mm"
+   height="120mm"
+   viewBox="0 0 230 120"
+   version="1.1"
+   id="svg90"
+   sodipodi:docname="top-template.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:lc="https://librecad.org">
+  <defs
+     id="defs94" />
+  <sodipodi:namedview
+     id="namedview92"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.86060788"
+     inkscape:cx="800.5969"
+     inkscape:cy="274.22477"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g88" />
+  <g
+     lc:layername="0"
+     lc:is_locked="false"
+     lc:is_construction="false"
+     fill="none"
+     stroke="#000000"
+     stroke-width="0.2"
+     id="g88"
+     inkscape:label="g88">
+    <path
+       d="M 230,5 A 5,5 0 0 0 225,0"
+       id="path6" />
+    <line
+       x1="230"
+       y1="5"
+       x2="230"
+       y2="115"
+       id="line2" />
+    <path
+       d="m 225,120 a 5,5 0 0 0 5,-5"
+       id="path4" />
+    <circle
+       cx="223"
+       cy="7"
+       r="2.4749999"
+       id="circle8" />
+    <circle
+       cx="223"
+       cy="113"
+       r="2.4749999"
+       id="circle10" />
+    <path
+       d="m 39.5,104.5 h 41 v -41 h -41 z"
+       id="path12"
+       style="stroke:#ff0000;stroke-opacity:1" />
+    <g
+       id="g1159"
+       style="stroke:#ea0000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <line
+         x1="141"
+         y1="75"
+         x2="211"
+         y2="75"
+         id="line14"
+         style="stroke:#ea0000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <line
+         x1="141"
+         y1="115"
+         x2="211"
+         y2="115"
+         id="line16"
+         style="stroke:#ea0000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <line
+         x1="136"
+         y1="80"
+         x2="136"
+         y2="110"
+         id="line18"
+         style="stroke:#ea0000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <line
+         x1="216"
+         y1="80"
+         x2="216"
+         y2="110"
+         id="line20"
+         style="stroke:#ea0000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="m 141,75 a 5,5 0 0 0 -5,5"
+         id="path22"
+         style="stroke:#ea0000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="m 136,110 a 5,5 0 0 0 5,5"
+         id="path24"
+         inkscape:label="path24"
+         style="stroke:#ea0000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="m 216,80 a 5,5 0 0 0 -5,-5"
+         id="path26"
+         style="stroke:#ea0000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="m 211,115 a 5,5 0 0 0 5,-5"
+         id="path28"
+         style="stroke:#ea0000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <circle
+       cx="111.42"
+       cy="99.620003"
+       r="13.25"
+       id="circle32" />
+    <circle
+       cx="37.75"
+       cy="9.75"
+       r="2"
+       id="circle34" />
+    <circle
+       cx="47.75"
+       cy="9.75"
+       r="2"
+       id="circle36" />
+    <circle
+       cx="57.75"
+       cy="9.75"
+       r="2"
+       id="circle38" />
+    <circle
+       cx="70.75"
+       cy="9.75"
+       r="2"
+       id="circle40" />
+    <circle
+       cx="80.75"
+       cy="9.75"
+       r="2"
+       id="circle42" />
+    <circle
+       cx="90.75"
+       cy="9.75"
+       r="2"
+       id="circle44" />
+    <path
+       d="M 5,0 A 5,5 0 0 0 0,5"
+       id="path46" />
+    <line
+       x1="0"
+       y1="5"
+       x2="0"
+       y2="115"
+       id="line48" />
+    <path
+       d="m 0,115 a 5,5 0 0 0 5,5"
+       id="path50" />
+    <circle
+       cx="7"
+       cy="7"
+       r="2.4749999"
+       id="circle52" />
+    <circle
+       cx="12"
+       cy="108"
+       r="2.4749999"
+       id="circle54" />
+    <circle
+       cx="6.5"
+       cy="113.5"
+       r="1.25"
+       id="circle56" />
+    <line
+       x1="5"
+       y1="0"
+       x2="225"
+       y2="0"
+       id="line58" />
+    <line
+       x1="5"
+       y1="120"
+       x2="225"
+       y2="120"
+       id="line60" />
+    <circle
+       cx="38.224998"
+       cy="35.049999"
+       r="11.5"
+       id="circle62" />
+    <circle
+       cx="67.32"
+       cy="35.169998"
+       r="11.5"
+       id="circle64" />
+    <circle
+       cx="93.919998"
+       cy="46.52"
+       r="11.5"
+       id="circle66" />
+    <circle
+       cx="123.25"
+       cy="66.150002"
+       r="11.5"
+       id="circle68" />
+    <circle
+       cx="128.86"
+       cy="35.110001"
+       r="11.5"
+       id="circle70" />
+    <circle
+       cx="155.42"
+       cy="23.58"
+       r="11.5"
+       id="circle72" />
+    <circle
+       cx="149.86"
+       cy="55.040001"
+       r="11.5"
+       id="circle74" />
+    <circle
+       cx="184.39"
+       cy="23.459999"
+       r="11.5"
+       id="circle76" />
+    <circle
+       cx="178.71001"
+       cy="55.040001"
+       r="11.5"
+       id="circle78" />
+    <circle
+       cx="213.336"
+       cy="26.950399"
+       r="11.5"
+       id="circle80" />
+    <circle
+       cx="207.896"
+       cy="58.290401"
+       r="11.5"
+       id="circle82" />
+  </g>
+</svg>
