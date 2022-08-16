@@ -21,6 +21,8 @@ You will need 1 each of acrylic panels 1-4. They must be the following thickness
 * 3 - Upper Mid Panel: 4.5mm. A thinner panel will not provide enough spacing for the top panel to sit flat above the tact switches.
 * 4 - Top Panel: 3 mm. A thicker panel will render the tact switches unusable.
 
+More detailed documentation forthcoming.
+
 PCB design licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 PCB design uses the following libraries:
