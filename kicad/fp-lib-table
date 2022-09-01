@@ -1,5 +1,0 @@
-(fp_lib_table
-  (lib (name Kailh)(type KiCad)(uri ${KIPRJMOD}/Kailh.pretty)(options "")(descr ""))
-  (lib (name Type-C)(type KiCad)(uri ${KIPRJMOD}/Type-C.pretty)(options "")(descr ""))
-  (lib (name Brook)(type KiCad)(uri ${KIPRJMOD}/Brook.pretty)(options "")(descr ""))
-)
